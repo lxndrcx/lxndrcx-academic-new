@@ -6,13 +6,11 @@ title: Alexander Cox
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Student
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: The Australian National University
-  url: https://www.anu.edu.au/
-
+#organizations:
+#-
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -63,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a computer science student at The Australian National University. I enjoy learning about logic, solving interesting problems and going for nature walks. I'm mostly interested in the formal side of computer science, such as software verification and functional programming.
+I have a computer science degree from The Australian National University. I enjoy learning about logic, solving interesting problems and going for nature walks. I'm mostly interested in the formal side of computer science, such as software verification and functional programming.
 
-I am also a Zen student in the Diamond Sangha, studying under [Allan Marett](https://allanmarett.com).
+I am also a Zen student in the Diamond Sangha, studying under [Allan Marett](https://allanmarett.com). I am also in the process of starting a Zen group with [Neti Parekh](https://netiparekh.com) which will be called [Twining Vines Zen Centre](https://twiningvines.net).
