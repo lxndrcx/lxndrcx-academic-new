@@ -6,7 +6,7 @@ title: Alexander Cox
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Software Developer
 
 # Organizations/Affiliations to show in About widget
 #organizations:
